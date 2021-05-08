@@ -24,7 +24,7 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Krenar',
-    'Sorry but visit the main website',
+    'Sorry but visit the main website <a target="_blank" href="https://ksala.com">www.ksala.com</a><br>',
     '<a target="_blank" href="https://ksala.com">www.ksala.com</a><br>',
     'You can contact me at <a href="mailto:krenar@sala.email">krenar@sala.email</a>',
     getCurrentTime(),
