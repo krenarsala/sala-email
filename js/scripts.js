@@ -25,7 +25,7 @@ window.onload = function() {
     'Hey there 👋',
     'I\'m Krenar',
     'Sorry but visit the main website <a target="_blank" href="https://ksala.com">ksala.com</a><br>',
-    'You can contact me at <a href="mailto:krenar@sala.email">krenar@sala.email</a>',
+    'You can contact me at <a href="mailto:post@sala.email">post@sala.email</a>',
     getCurrentTime(),
     '👀 KS.'
   ]
